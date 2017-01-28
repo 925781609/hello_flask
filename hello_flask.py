@@ -1,4 +1,4 @@
-# some little work!
+# A  little demo to test whether the venv can work well!
 from flask import Flask
 app = Flask(__name__)
 
